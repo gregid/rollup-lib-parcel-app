@@ -10,7 +10,7 @@
     "devDependencies": {
         "@rollup/plugin-commonjs": "^15.0.0",
         "@rollup/plugin-node-resolve": "^9.0.0",
-        "parcel": "^2.0.0-nightly.368",
+        "parcel": "^2.8.2",
         "rollup": "^2.26.3"
     },
     "scripts": {
